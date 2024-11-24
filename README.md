@@ -11,9 +11,10 @@ Primeiro, faça o clone do repositório para sua máquina:
 ```bash
 git clone https://github.com/DiogoPalharini/atvii-atlantis.git
 cd atvii-atlantis
+````
 2. Instale as Dependências
 Certifique-se de ter o Node.js instalado. Depois, instale as dependências do projeto:
-````
+
 ```bash
 npm install
 ````
